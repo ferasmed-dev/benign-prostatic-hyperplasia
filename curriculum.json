@@ -1,0 +1,48 @@
+{
+  "topic": "Benign prostatic hyperplasia",
+  "system": "Renal / urinary",
+  "specialty": "Urology",
+  "eciModule": "III — Formación clínica humana",
+  "typicalSubjects": [
+    "Fisiopatología",
+    "Urología",
+    "Farmacología",
+    "Geriatría",
+    "Medicina de familia"
+  ],
+  "mirRelevant": true,
+  "keywords_es": [
+    "hiperplasia benigna de próstata",
+    "HBP",
+    "STUI",
+    "IPSS",
+    "estadios de Guyon",
+    "flujometría",
+    "residuo",
+    "α-bloqueantes",
+    "5-ARI",
+    "RTUp",
+    "adenomectomía",
+    "láser holmio",
+    "PSA"
+  ],
+  "keywords_en": [
+    "benign prostatic hyperplasia",
+    "BPH",
+    "LUTS",
+    "IPSS",
+    "Guyon stages",
+    "uroflowmetry",
+    "post-void residual",
+    "alpha-blockers",
+    "5-alpha-reductase inhibitors",
+    "TURP",
+    "simple prostatectomy",
+    "HoLEP",
+    "PSA"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ]
+}

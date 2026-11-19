@@ -1,0 +1,9 @@
+{
+  "name": "benign-prostatic-hyperplasia",
+  "version": "1.0.0",
+  "description": "Interactive ten-year teaching simulator of benign prostatic hyperplasia: static and dynamic obstruction, Guyon stages, IPSS, every drug class and operation. ES/EN.",
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "license": "MIT",
+  "author": "Feras Elhissi"
+}
